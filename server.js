@@ -1,5 +1,7 @@
 //coming from https://www.youtube.com/watch?v=q7xw9K6ah1c&list=PLhbZWg5iN5xUVrNZh3Jwou19lnnqCHczK&index=4
 
+//"start": "nodemon server.js" <-- previous start up command
+
 //requiring stuff / importing
 const express = require("express");
 const http = require("http");
